@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdx-21&label=Profile%20views&color=0e75b6&style=flat" alt="mdx-21" /> </p>
 
-- 🔭 I’m currently working on **Beez**
+- 🔭 I’m currently working on **Beez.IA**
 
 - 🌱 I’m currently learning **Dart**
 
 - 💬 Ask me about **Android , Web**
 
-- 📫 How to reach me **ahmed.tlilani.8@gmail.com**
+- 📫 How to reach me **tlilaniahmedabdelilah@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
