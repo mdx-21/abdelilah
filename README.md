@@ -1,24 +1,38 @@
 <h1 align="center">Hi 👋, I'm Abdelilah</h1>
-<h3 align="center">A passionate frontend developer from Algeria</h3>
+
+<h3 align="center">
+Software Engineer | AI Engineer | Full-Stack Developer
+</h3>
 
 <p align="center">
-  👨‍💻 GitHub Username: <strong>mdx-21</strong>
+Building intelligent, scalable software solutions with modern technologies.
+</p>
+
+<p align="center">
+🎓 Master's Degree in Artificial Intelligence • Bachelor's Degree in Computer Science (Information Systems)
+</p>
+
+<p align="center">
+👨‍💻 GitHub Username: <strong>mdx-21</strong>
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mdx-21&label=Profile%20views&color=0e75b6&style=flat" alt="mdx-21" /> 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mdx-21&label=Profile%20Views&color=0e75b6&style=flat" alt="mdx-21"/>
 </p>
 
-- 🔭 I’m currently working on **Beez.IA**
-- 💬 Ask me about **Android , Web**
-- 📫 How to reach me **tlilaniahmedabdelilah@gmail.com**
-- ⚡ Fun fact **I think I am funny**
+- 🚀 Currently building **Beez.IA**
+- 🤖 Specializing in **Artificial Intelligence, Full-Stack Development, and Software Engineering**
+- 💡 Passionate about **Intelligent Systems, Scalable Applications, Web Technologies, and Mobile Development**
+- 💬 Ask me about **AI, Flutter, Java, Python, PHP, Web Development, and Software Architecture**
+- 📫 Reach me at **tlilaniahmedabdelilah@gmail.com**
+- 🌍 Portfolio: **https://abdelilah.dev**
+- ⚡ Always learning, building, and exploring new technologies.
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 
-<p align="left"> 
+<p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
 </a>
