@@ -9,7 +9,7 @@ Building intelligent, scalable software solutions with modern technologies.
 </p>
 
 <p align="center">
-🎓 Master's Degree in Artificial Intelligence • Bachelor's Degree in Computer Science (Information Systems)
+🎓 Master's Degree in Intelligent Information Systems Engineering • Bachelor's Degree in Computer Science (Information Systems)
 </p>
 
 <p align="center">
