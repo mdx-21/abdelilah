@@ -16,9 +16,6 @@ Building intelligent, scalable software solutions with modern technologies.
 <a href="https://abdelilahdev.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
-<a href="mailto:tlilaniahmedabdelilah@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 <a href="https://github.com/mdx-21">
 <img src="https://img.shields.io/badge/GitHub-mdx--21-181717?style=for-the-badge&logo=github"/>
 </a>
@@ -128,9 +125,6 @@ Building intelligent, scalable software solutions with modern technologies.
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=google-chrome"/>
 </a>
 
-<a href="mailto:tlilaniahmedabdelilah@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 <a href="https://github.com/mdx-21">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
