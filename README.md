@@ -46,7 +46,6 @@ Building intelligent, scalable software solutions with modern technologies.
 - 🌐 Experienced in **Web, Mobile, Desktop, and Intelligent Systems**
 - 💡 Interested in AI, Software Architecture, Cloud Technologies, and Modern Web Development
 - 🌍 Portfolio: **https://abdelilahdev.vercel.app/**
-- 📫 Email: **tlilaniahmedabdelilah@gmail.com**
 - 👨‍💻 GitHub: **https://github.com/mdx-21**
 - ⚡ Always learning, building, and exploring new technologies.
 
