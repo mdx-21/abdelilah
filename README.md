@@ -133,14 +133,6 @@ Building intelligent, scalable software solutions with modern technologies.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mdx-21&theme=tokyonight&margin-w=15&no-frame=true&no-bg=true"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
