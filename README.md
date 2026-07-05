@@ -40,7 +40,7 @@ Building intelligent, scalable software solutions with modern technologies.
 ## 🚀 About Me
 
 - 🔭 Currently building **Beez.IA**
-- 🎓 Master's Degree in **Artificial Intelligence**
+- 🎓 Master's Degree in **Intelligent Information Systems Engineering**
 - 💻 Software Engineer passionate about building intelligent, scalable applications
 - 🤖 Specialized in **Artificial Intelligence, Full-Stack Development, and Software Engineering**
 - 🌐 Experienced in **Web, Mobile, Desktop, and Intelligent Systems**
