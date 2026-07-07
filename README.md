@@ -42,7 +42,7 @@ Building intelligent, scalable software solutions with modern technologies.
 - 🤖 Specialized in **Artificial Intelligence, Full-Stack Development, and Software Engineering**
 - 🌐 Experienced in **Web, Mobile, Desktop, and Intelligent Systems**
 - 💡 Interested in AI, Software Architecture, Cloud Technologies, and Modern Web Development
-- 🌍 Portfolio: **https://abdelilahdev.vercel.app/**
+- 🌍 Portfolio: **/**
 - 👨‍💻 GitHub: **https://github.com/mdx-21**
 - ⚡ Always learning, building, and exploring new technologies.
 
