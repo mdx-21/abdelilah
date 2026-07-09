@@ -36,15 +36,15 @@ Building intelligent, scalable software solutions with modern technologies.
 
 ## 🚀 About Me
 
-- 🔭 Currently building **Beez.IA**
-- 🎓 Master's Degree in **Intelligent Information Systems Engineering**
-- 💻 Software Engineer passionate about building intelligent, scalable applications
-- 🤖 Specialized in **Artificial Intelligence, Full-Stack Development, and Software Engineering**
-- 🌐 Experienced in **Web, Mobile, Desktop, and Intelligent Systems**
-- 💡 Interested in AI, Software Architecture, Cloud Technologies, and Modern Web Development
-- 🌍 Portfolio: **/https://abdelilahdev.vercel.app/**
-- 👨‍💻 GitHub: **https://github.com/mdx-21**
-- ⚡ Always learning, building, and exploring new technologies.
+- 🚀 Founder of **Beez IA**, an AI-powered startup developing innovative technology solutions.
+- 🎓 Master's Graduate in Intelligent Information Systems Engineering.
+- 💻 Software Engineer passionate about designing and building intelligent, scalable applications.
+- 🤖 Specialized in Artificial Intelligence, Full-Stack Development, and Software Engineering.
+- 🌐 Experienced in developing Web, Mobile, Desktop, and AI-powered Systems.
+- ☁️ Passionate about Software Architecture, Cloud Computing, Modern Web Technologies, and Intelligent Systems.
+- 🌍 Portfolio: https://abdelilahdev.vercel.app/
+- 👨‍💻 GitHub: https://github.com/mdx-21
+- ⚡ Always learning, building, and turning ideas into impactful products.
 
 ---
 
